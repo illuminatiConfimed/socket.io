@@ -4,7 +4,9 @@
 A simple chat demo for socket.io
 
 ## How to use
-Install GIT and Node.js
+Need Git - http://git-scm.com/download/mac
+Need Node.js - https://nodejs.org/en/download/
+git clone https://github.com/Nickysix6/socket.io
 ```
 RUN - git clone https://github.com/socketio/socket.io
 

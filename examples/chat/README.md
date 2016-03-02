@@ -5,7 +5,7 @@ A simple chat demo for socket.io
 
 ## How to use
 Install GIT and Node.js
-```
+```RUN - git clone https://github.com/socketio/socket.io
 $ cd socket.io
 $ npm install
 $ cd examples/chat

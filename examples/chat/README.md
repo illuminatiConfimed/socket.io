@@ -4,7 +4,7 @@
 A simple chat demo for socket.io
 
 ## How to use
-
+Install GIT and Node.js
 ```
 $ cd socket.io
 $ npm install
@@ -20,6 +20,6 @@ a port by supplying the `PORT` env variable.
 
 - Multiple users can join a chat room by each entering a unique username
 on website load.
-- Users can type chat messages to the chat room.
-- A notification is sent to all users when a user joins or leaves
+- Users can type cshat messages to the chat room.
+- A notification i sent to all users when a user joins or leaves
 the chatroom.
